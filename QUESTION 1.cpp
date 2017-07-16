@@ -1,11 +1,3 @@
-/*                                              MINI PROJECT 2017
-                                                 Question no.- 1
-
-                         Submitted by-
-                                      Shreyanshi Arun           (CS&CC)
-                                      Smitha Dinesh Semwal      (CS-D)
-
- */
 
 #include<iostream>
 using namespace std;
